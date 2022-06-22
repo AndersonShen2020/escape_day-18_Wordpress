@@ -1,4 +1,5 @@
 <h2 id="assess" class="text-center mb-5">他人說法</h2>
+<div class="container-fluid">
   <div class="row justify-content-center">
     <div class="col-md-8">
       <div class="row mb-4 flex-md-row-reverse">
@@ -27,3 +28,5 @@
       </div>
     </div>
   </div>
+</div>
+  

@@ -2,7 +2,8 @@
   <h2 id="about" class="mb-5">
     梅添涼在幹嘛？
   </h2>
-  <div class="row g-4">
+  <div class="container-fluid">
+	    <div class="row g-4">
     <div class="col-md-4">
       <div class="card bg-light border-0">
         <h5 class="card-title text-center">承接專案</h5>
@@ -36,5 +37,6 @@
         </div>
       </div>
     </div>
+  </div>
   </div>
 </div>
